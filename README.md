@@ -1,5 +1,5 @@
 # 👋🏻 Hi, my name is **Yaroslav Tormasov**!
-## I'm a Junior *Front-end developer* from Samara.
+## I'm a *Front-end developer* from Samara.
 ### Languages and Technologies 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React)
